@@ -1,0 +1,50 @@
+I am;მე ვარ
+we are;ჩვენ ვართ
+you live;შენ ცხოვრობ
+they live;ისინი ცხოვრობენ
+I work;მე ვმუშაობ
+you (pl) work;თქვენ მუშაობთ
+you know;შენ იცი
+we know;ჩვენ ვიცით
+he loves;მას უყვარს
+we love;გვიყვარს
+I think;მე ვფიქრობ
+they think;ისინი ფიქრობენ
+you are called;შენ ქვია
+they are called;მათ ჰქვიათ
+I want;მე მინდა
+he wants;მას უნდა
+you do/make;შენ აკეთებ
+we do/make;ჩვენ ვაკეთებთ
+you were;შენ იყავი
+they were;ისინი იყვნენ
+I will be;მე ვიქნები
+he will be;ის იქნება
+he likes;მას მოსწონს
+you (pl) like;თქვენ მოგწონთ
+you eat;შენ ჭამ
+they eat;ისინი ჭამენ
+I drink;მე ვსვამ
+you (pl) drink;თქვენ სვამთ
+you speak;შენ ლაპარაკობ
+we speak;ჩვენ ვლაპარაკობთ
+I study;მე ვსწავლობ
+he studies;ის სწავლობს
+you have (inanimate);შენ გაქვს
+they have (inanimate);მათ აქვთ
+I have (animate);მე მყავს
+you (pl) have (animate);თქვენ გყავთ
+you were born;შენ დაიბადე
+we were born;ჩვენ დავიბადეთ
+I grew up;მე გავიზარდე
+they grew up;ისინი გაიზარდნენ
+I come;მე მოვდივარ
+you go;შენ მიდიხარ
+you rest;შენ ისვენებ
+we rest;ჩვენ ვისვენებთ
+he prefers;ის ურჩევნია
+you (pl) prefer;თქვენ გირჩევნიათ
+I watch;მე ვუყურებ
+they watch;ისინი უყურებენ
+you see;შენ ხედავ
+we see;ჩვენ ვხედავთ

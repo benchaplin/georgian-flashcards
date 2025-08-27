@@ -1,0 +1,282 @@
+food;საჭმელი;food
+drinks;სასმელბი;food
+dishes;კერძები;food
+fruit;ხილი;food
+apple;ვაშლი;food
+cherry;ალუბალი;food
+raspberry;ჟოლო;food
+strawberry;მარწყვი;food
+grape;ყურძენი;food
+pomegranate;ბროწეული;food
+meat;ხორცი;food
+pork;ღორის ხორცი;food
+beef;ძროხის ხორცი;food
+chicken;ქათამი;food
+fish;თევზი;food
+vegetables;ბოსტნეული;food
+potato;კარტოფილი;food
+cucumber;კიტრი;food
+tomato;პომიდორი;food
+carrot;სტაფილო;food
+bell pepper;ბულგარული წიწაკა;food
+mushrooms;სოკო;food
+eggplant;ბადრიჯანი;food
+spinach;ისპანახი;food
+onion;ხახვი;food
+garlic;ნიორი;food
+herbs;მწვანილი;food
+milk;რძე;food
+cheese;ყველი;food
+butter;კარაქი;food
+yogurt;მაწონი;food
+salt;მარილი;food
+sugar;შაქარი;food
+cake;ნამცხვარი/ტორტი;food
+pie;ღვეზელი;food
+pastry;ცომეული;food
+or;თუ;high_use_vocab
+but, however;მაგრამ;high_use_vocab
+who;ვინ;high_use_vocab
+if;თუ;high_use_vocab
+how many;რამდენი;high_use_vocab
+which;რომელი;high_use_vocab
+this;ეს;high_use_vocab
+there;იქ;high_use_vocab
+what;რა;high_use_vocab
+because;იმიტომ;high_use_vocab
+where;სად;high_use_vocab
+how;როგორ;high_use_vocab
+about (approx);დაახლოებით;high_use_vocab
+how much;რა ღირს;high_use_vocab
+what kind;როგორი;high_use_vocab
+also;ასევე;high_use_vocab
+here;აქ;high_use_vocab
+when;როდის;high_use_vocab
+together;ერთად;high_use_vocab
+only;მხოლოდ;high_use_vocab
+when;როცა;high_use_vocab
+near;ახლოს;high_use_vocab
+often;ხშირად;high_use_vocab
+favorite;საყვარელი;high_use_vocab
+therefore;ამიტომ;high_use_vocab
+after;შემდეგ;high_use_vocab
+before;ადრე;high_use_vocab
+all;ყველა;high_use_vocab
+most;ყველაზე;high_use_vocab
+rarely;იშვიათად;high_use_vocab
+some;ზოგი;high_use_vocab
+every day;ყოველდღე;high_use_vocab
+sometimes;ზოგჯერ;high_use_vocab
+usually;ჩვეულებრივ;high_use_vocab
+no one;არავინ;high_use_vocab
+always;ყოველთვის;high_use_vocab
+many times;ბევრჯერ;high_use_vocab
+never;არასდროს;high_use_vocab
+again;ისევ;high_use_vocab
+for example;მაგალითად;high_use_vocab
+perhaps;ალბათ;high_use_vocab
+several;რამდენიმე;high_use_vocab
+you're welcome;არაფრის;high_use_vocab
+forgive me;მაპატიე;high_use_vocab
+no problem;არა უშავს;high_use_vocab
+excuse me;უკაცრავად;high_use_vocab
+take it;აიღე;high_use_vocab
+take it (formal);ინებეთ;high_use_vocab
+may I;შეიძლება?;high_use_vocab
+it's possible;შეილება;high_use_vocab
+if you please;თუ შეიძლება;high_use_vocab
+congratulations;გილოცავ!;high_use_vocab
+various;სხვადასხვა;high_use_vocab
+since;წლიდან;high_use_vocab
+last;წინა;high_use_vocab
+woman;ქალი;vocabulary
+man;კაცი;vocabulary
+house;სახლი;vocabulary
+child;ბავშვი;vocabulary
+one's child;შვილი;vocabulary
+tree;ხე;vocabulary
+apartment;ბინა;vocabulary
+chair;სკამი;vocabulary
+room;ოთახი;vocabulary
+cat;კატა;vocabulary
+dog;ძაღლი;vocabulary
+street;ქუჩა;vocabulary
+mountain;მთა;vocabulary
+people;ხალხი;vocabulary
+table;მაგიდა;vocabulary
+shelf;თარო;vocabulary
+book;წიგნი;vocabulary
+rain;წვიმა;vocabulary
+snow;თოვლი;vocabulary
+year;წელი;vocabulary
+month;თვე;vocabulary
+national;ერივნული;vocabulary
+boy;ბიჟი;vocabulary
+girl;გოგო;vocabulary
+husband;ქმარი;vocabulary
+wife;ცოლი;vocabulary
+spouse;მეუღლე;vocabulary
+grandpa;ბაბუა;vocabulary
+grandma;ბებია;vocabulary
+world;მსოფლიო;vocabulary
+grandchild;შვილიშვილი;vocabulary
+country;ქვეყანა;vocabulary
+city;ქალაქი;vocabulary
+building;შენობა;vocabulary
+ocean;ოკეანე;vocabulary
+water;წყალი;vocabulary
+friend;მეგობარი;vocabulary
+car;მანქანა;vocabulary
+language;ენა;vocabulary
+sun;მზე;vocabulary
+yesterday;გუშინ;vocabulary
+desert;უდაბნო;vocabulary
+nation;ერი;vocabulary
+government;მტავრობა;vocabulary
+mother;დედა;vocabulary
+father;მამა;vocabulary
+family;ოჯახი;vocabulary
+sister;და;vocabulary
+brother;ძმა;vocabulary
+daughter;ქალიშვილი;vocabulary
+son;ვაჟი;vocabulary
+parent;მშობელი;vocabulary
+state;შტატი;vocabulary
+capital;დედაქალაქი;vocabulary
+neighborhood;უბანი;vocabulary
+region;რეგიონი;vocabulary
+sea;ზღვა;vocabulary
+store;მაღაზია;vocabulary
+turtle;კუ;vocabulary
+lake;ტბა;vocabulary
+human;ადამიანი;vocabulary
+main;მთავარი;vocabulary
+tomorrow;ხვალ;vocabulary
+avenue;გამზირი;vocabulary
+nationality;ერივნება;vocabulary
+ugly;უშნო;adjectives
+pleasant;სასიამოვნო;adjectives
+beautiful;ლამაზი;adjectives
+hot;ცხელი;adjectives
+small;პატარა;adjectives
+many;ბევრი;adjectives
+cool;გრილი;adjectives
+tired;დაღლილი;adjectives
+interesting;საინტერესო;adjectives
+new;ახალი;adjectives
+expensive;ძვილი;adjectives
+cheap;იაფი;adjectives
+warm;თბილი;adjectives
+big;დიდი;adjectives
+famous;ცნობილი;adjectives
+smart;ჭკვიანი;adjectives
+old;ძველი;adjectives
+cute;საყვარელი;adjectives
+ill;ავად;adjectives
+cold;ცივი;adjectives
+few;ცოტა;adjectives
+busy;დაკავებული;adjectives
+I am;მე ვარ;verbs
+we are;ჩვენ ვართ;verbs
+you live;შენ ცხოვრობ;verbs
+they live;ისინი ცხოვრობენ;verbs
+I work;მე ვმუშაობ;verbs
+you (pl) work;თქვენ მუშაობთ;verbs
+you know;შენ იცი;verbs
+we know;ჩვენ ვიცით;verbs
+he loves;მას უყვარს;verbs
+we love;გვიყვარს;verbs
+I think;მე ვფიქრობ;verbs
+they think;ისინი ფიქრობენ;verbs
+you are called;შენ ქვია;verbs
+they are called;მათ ჰქვიათ;verbs
+I want;მე მინდა;verbs
+he wants;მას უნდა;verbs
+you do/make;შენ აკეთებ;verbs
+we do/make;ჩვენ ვაკეთებთ;verbs
+you were;შენ იყავი;verbs
+they were;ისინი იყვნენ;verbs
+I will be;მე ვიქნები;verbs
+he will be;ის იქნება;verbs
+he likes;მას მოსწონს;verbs
+you (pl) like;თქვენ მოგწონთ;verbs
+you eat;შენ ჭამ;verbs
+they eat;ისინი ჭამენ;verbs
+I drink;მე ვსვამ;verbs
+you (pl) drink;თქვენ სვამთ;verbs
+you speak;შენ ლაპარაკობ;verbs
+we speak;ჩვენ ვლაპარაკობთ;verbs
+I study;მე ვსწავლობ;verbs
+he studies;ის სწავლობს;verbs
+you have (inanimate);შენ გაქვს;verbs
+they have (inanimate);მათ აქვთ;verbs
+I have (animate);მე მყავს;verbs
+you (pl) have (animate);თქვენ გყავთ;verbs
+you were born;შენ დაიბადე;verbs
+we were born;ჩვენ დავიბადეთ;verbs
+I grew up;მე გავიზარდე;verbs
+they grew up;ისინი გაიზარდნენ;verbs
+I come;მე მოვდივარ;verbs
+you go;შენ მიდიხარ;verbs
+you rest;შენ ისვენებ;verbs
+we rest;ჩვენ ვისვენებთ;verbs
+he prefers;ის ურჩევნია;verbs
+you (pl) prefer;თქვენ გირჩევნიათ;verbs
+I watch;მე ვუყურებ;verbs
+they watch;ისინი უყურებენ;verbs
+you see;შენ ხედავ;verbs
+we see;ჩვენ ვხედავთ;verbs
+Monday;ორშაბათი;time
+Tuesday;სამშაბათი;time
+Wednesday;ოთხშაბათი;time
+Thursday;ხუთშაბათი;time
+Friday;პარასკევი;time
+Saturday;შაბათი;time
+Sunday;კვირა;time
+day;დღე;time
+today;დღეს;time
+weekend;შაბათკვირა;time
+tomorrow;ხვალ;time
+yesterday;გუშინ;time
+month;თვე;time
+year;წელი;time
+morning;დილა;time
+afternoon;შუადღე;time
+evening;საღამო;time
+night;ღამე;time
+January;იანვარი;time
+February;თებერვალი;time
+March;მარტი;time
+April;აპრილი;time
+May;მაისი;time
+June;ივნისი;time
+July;ივლისი;time
+August;აგვისტო;time
+September;სექტემბერი;time
+October;ოქტომბერი;time
+November;ნოემბერი;time
+December;დეკემბერი;time
+winter;ზამთარი;time
+spring;გაზაფხული;time
+summer;ზაფხული;time
+fall;შემოდგომა;time
+seasons;სეზონები;time
+time;დრო;time
+clock/hour;საათი;time
+every day;ყოველდღე;time
+always;ყოველთვის;time
+usually;ჩვეულებრივ;time
+often;ხშირად;time
+rarely;იშვიათად;time
+sometimes;ზოგჯერ;time
+many times;ბევრჯერ;time
+never;არასდროს;time
+after;შემდეგ;time
+before;ადრე;time
+now;ახლა;time
+again;ისევ;time
+last;ბოლო;time
+since;წლიდან;time
+first;პირველი;time
+second;მეორე;time
+third;მესამე;time

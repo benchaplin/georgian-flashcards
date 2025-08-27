@@ -1,0 +1,36 @@
+food;საჭმელი
+drinks;სასმელბი
+dishes;კერძები
+fruit;ხილი
+apple;ვაშლი
+cherry;ალუბალი
+raspberry;ჟოლო
+strawberry;მარწყვი
+grape;ყურძენი
+pomegranate;ბროწეული
+meat;ხორცი
+pork;ღორის ხორცი
+beef;ძროხის ხორცი
+chicken;ქათამი
+fish;თევზი
+vegetables;ბოსტნეული
+potato;კარტოფილი
+cucumber;კიტრი
+tomato;პომიდორი
+carrot;სტაფილო
+bell pepper;ბულგარული წიწაკა
+mushrooms;სოკო
+eggplant;ბადრიჯანი
+spinach;ისპანახი
+onion;ხახვი
+garlic;ნიორი
+herbs;მწვანილი
+milk;რძე
+cheese;ყველი
+butter;კარაქი
+yogurt;მაწონი
+salt;მარილი
+sugar;შაქარი
+cake;ნამცხვარი/ტორტი
+pie;ღვეზელი
+pastry;ცომეული

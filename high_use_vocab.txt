@@ -1,0 +1,55 @@
+or;თუ
+but, however;მაგრამ
+who;ვინ
+if;თუ
+how many;რამდენი
+which;რომელი
+this;ეს
+there;იქ
+what;რა
+because;იმიტომ
+where;სად
+how;როგორ
+about (approx);დაახლოებით
+how much;რა ღირს
+what kind;როგორი
+also;ასევე
+here;აქ
+when;როდის
+together;ერთად
+only;მხოლოდ
+when;როცა
+near;ახლოს
+often;ხშირად
+favorite;საყვარელი
+therefore;ამიტომ
+after;შემდეგ
+before;ადრე
+all;ყველა
+most;ყველაზე
+rarely;იშვიათად
+some;ზოგი
+every day;ყოველდღე
+sometimes;ზოგჯერ
+usually;ჩვეულებრივ
+no one;არავინ
+always;ყოველთვის
+many times;ბევრჯერ
+never;არასდროს
+again;ისევ
+for example;მაგალითად
+perhaps;ალბათ
+several;რამდენიმე
+you're welcome;არაფრის
+forgive me;მაპატიე
+no problem;არა უშავს
+excuse me;უკაცრავად
+take it;აიღე
+take it (formal);ინებეთ
+may I;შეიძლება?
+it's possible;შეილება
+if you please;თუ შეიძლება
+congratulations;გილოცავ!
+various;სხვადასხვა
+since;წლიდან
+last;წინა
