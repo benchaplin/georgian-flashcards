@@ -726,7 +726,7 @@ Polite:
 
 - **არ** is not used here, must be **ვერ** - **inability**
 
-**გავიგე რომ **_ - I heard / I found out that _****
+**გავიგე რომ **_ - I heard / I found out that _\*\*\*\*
 
 e.g. გავიგე , რომ თბილისში კარგი კაფეებია
 
@@ -878,7 +878,3 @@ Negation:
 
 - **არ**  - simple negation, corresponding to the English "no" and followed by the verb
 - **ვერ**  - inability, is the equivalent of English "can’t" and followed by the verb
-
----
-
-[https://zoom.us/j/94105847197](https://zoom.us/j/94105847197)
