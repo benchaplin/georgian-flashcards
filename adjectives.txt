@@ -8,7 +8,7 @@ cool;გრილი
 tired;დაღლილი
 interesting;საინტერესო
 new;ახალი
-expensive;ძვილი
+expensive;ძვირი
 cheap;იაფი
 warm;თბილი
 big;დიდი

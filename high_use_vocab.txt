@@ -53,3 +53,4 @@ congratulations;გილოცავ!
 various;სხვადასხვა
 since;წლიდან
 last;წინა
+same;იგივე

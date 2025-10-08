@@ -42,7 +42,7 @@ I come;მე მოვდივარ
 you go;შენ მიდიხარ
 you rest;შენ ისვენებ
 we rest;ჩვენ ვისვენებთ
-he prefers;ის ურჩევნია
+he prefers;მას ურჩევნია
 you (pl) prefer;თქვენ გირჩევნიათ
 I watch;მე ვუყურებ
 they watch;ისინი უყურებენ
