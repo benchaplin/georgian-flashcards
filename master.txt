@@ -227,6 +227,18 @@ I watch;მე ვუყურებ;verbs
 they watch;ისინი უყურებენ;verbs
 you see;შენ ხედავ;verbs
 we see;ჩვენ ვხედავთ;verbs
+I travel;მე ვმგზავრობ;verbs
+he travels;ის მგზავრობს;verbs
+you journey;შენ მოგზაურობ;verbs
+they journey;ისინი მოგზაურობენ;verbs
+I prepare;მე ვამზადებ;verbs
+you (pl) prepare;თქვენ ამზადებთ;verbs
+you read;შენ კითხულობ;verbs
+we read;ჩვენ ვკითხულობთ;verbs
+I am listening;მე ვუსმენ;verbs
+he is listening;ის უსმენს;verbs
+you hear;შენ გესმის;verbs
+we hear;ჩვენ გვესმის;verbs
 Monday;ორშაბათი;time
 Tuesday;სამშაბათი;time
 Wednesday;ოთხშაბათი;time
@@ -303,3 +315,18 @@ kitchen/cuisine;სამზარეულო;new_vocabulary
 ready;მზა;new_vocabulary
 chef;მზარეული;new_vocabulary
 hiking;ლაშქრობა;new_vocabulary
+red;წითელი;new_vocabulary
+green;მწვანე;new_vocabulary
+yellow;ყვითელი;new_vocabulary
+black;შავი;new_vocabulary
+white;თეთრი;new_vocabulary
+blue;ლურჯი;new_vocabulary
+sky blue;ცისფერი;new_vocabulary
+pink;ვარდისფერი;new_vocabulary
+brown;ყავისფერი;new_vocabulary
+grey;ნაცრისფერი;new_vocabulary
+gold;ოქროსფერი;new_vocabulary
+silver;ვერცხლისფერი;new_vocabulary
+good;კარგი;new_vocabulary
+better;უკეთესი;new_vocabulary
+the best;საუკეთესო;new_vocabulary

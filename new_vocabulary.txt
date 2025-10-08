@@ -20,4 +20,19 @@ kitchen/cuisine;სამზარეულო
 ready;მზა
 chef;მზარეული
 hiking;ლაშქრობა
+red;წითელი
+green;მწვანე
+yellow;ყვითელი
+black;შავი
+white;თეთრი
+blue;ლურჯი
+sky blue;ცისფერი
+pink;ვარდისფერი
+brown;ყავისფერი
+grey;ნაცრისფერი
+gold;ოქროსფერი
+silver;ვერცხლისფერი
+good;კარგი
+better;უკეთესი
+the best;საუკეთესო
 

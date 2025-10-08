@@ -48,3 +48,15 @@ I watch;მე ვუყურებ
 they watch;ისინი უყურებენ
 you see;შენ ხედავ
 we see;ჩვენ ვხედავთ
+I travel;მე ვმგზავრობ
+he travels;ის მგზავრობს
+you journey;შენ მოგზაურობ
+they journey;ისინი მოგზაურობენ
+I prepare;მე ვამზადებ
+you (pl) prepare;თქვენ ამზადებთ
+you read;შენ კითხულობ
+we read;ჩვენ ვკითხულობთ
+I am listening;მე ვუსმენ
+he is listening;ის უსმენს
+you hear;შენ გესმის
+we hear;ჩვენ გვესმის
