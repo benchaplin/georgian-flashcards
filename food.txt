@@ -1,5 +1,5 @@
 food;საჭმელი
-drinks;სასმელბი
+drinks;სასმელები
 dishes;კერძები
 fruit;ხილი
 apple;ვაშლი

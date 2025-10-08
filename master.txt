@@ -1,5 +1,5 @@
 food;საჭმელი;food
-drinks;სასმელბი;food
+drinks;სასმელები;food
 dishes;კერძები;food
 fruit;ხილი;food
 apple;ვაშლი;food
@@ -221,7 +221,7 @@ I come;მე მოვდივარ;verbs
 you go;შენ მიდიხარ;verbs
 you rest;შენ ისვენებ;verbs
 we rest;ჩვენ ვისვენებთ;verbs
-he prefers;ის ურჩევნია;verbs
+he prefers;მას ურჩევნია;verbs
 you (pl) prefer;თქვენ გირჩევნიათ;verbs
 I watch;მე ვუყურებ;verbs
 they watch;ისინი უყურებენ;verbs
