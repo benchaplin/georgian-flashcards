@@ -177,6 +177,15 @@ ill;ავად;adjectives
 cold;ცივი;adjectives
 few;ცოტა;adjectives
 busy;დაკავებული;adjectives
+happy;ბედნიერი;adjectives
+sad;სევდიანი;adjectives
+kind;კეთილი;adjectives
+evil;ბოროთი;adjectives
+joyful;მხიარული;adjectives
+funny;სასაცილო;adjectives
+angry;გაბრაზებული;adjectives
+difficult;რთული;adjectives
+easy;ადვილი;adjectives
 I am;მე ვარ;verbs
 we are;ჩვენ ვართ;verbs
 you live;შენ ცხოვრობ;verbs
@@ -239,6 +248,18 @@ I am listening;მე ვუსმენ;verbs
 he is listening;ის უსმენს;verbs
 you hear;შენ გესმის;verbs
 we hear;ჩვენ გვესმის;verbs
+I need;მე მჭირდება;verbs
+you (pl) need;თქვენ გჭირდებათ;verbs
+you wake up;შენ იღვიძებ;verbs
+they wake up;ისინი იღვიძებენ;verbs
+I go to bed;მე ვიძინებ;verbs
+he goes to bed;ის იძინებს;verbs
+you are sleeping;შენ გძინავს;verbs
+we are sleeping;ჩვენ გვძინავს;verbs
+I feel sleepy;მე მეძინება;verbs
+they feel sleepy;მათ ეძინებთ;verbs
+we spend;ჩვენ ვატარებთ;verbs
+you spend;შენ ატარებ;verbs
 Monday;ორშაბათი;time
 Tuesday;სამშაბათი;time
 Wednesday;ოთხშაბათი;time
@@ -293,6 +314,19 @@ since;წლიდან;time
 first;პირველი;time
 second;მეორე;time
 third;მესამე;time
+quickly;ჩქარა;time
+soon/promptly;მალე;time
+slowly;ნელა;time
+time (duration);ხანი;time
+in front/ago;წინ;time
+free time;თავისუფალი დრო;time
+personal time;პირადი დრო;time
+earlier/formerly;წინათ;time
+at that time;იმ დროს;time
+then;მაშინ;time
+in ancient times;ძველად;time
+last year;შარშან;time
+two years ago;შარშანწინ;time
 hopefully;იმედია;new_vocabulary
 nature;ბუნება;new_vocabulary
 alone;მარტო;new_vocabulary
@@ -330,3 +364,28 @@ silver;ვერცხლისფერი;new_vocabulary
 good;კარგი;new_vocabulary
 better;უკეთესი;new_vocabulary
 the best;საუკეთესო;new_vocabulary
+job/work place;სამსახური;new_vocabulary
+business;საქმე;new_vocabulary
+colleague;კოლეგა;new_vocabulary
+break;შესვენება;new_vocabulary
+plan;გეგმა;new_vocabulary
+more;მეტი;new_vocabulary
+no longer;აღარ;new_vocabulary
+free;თავისუფალი;new_vocabulary
+freedom;თავისუფლება;new_vocabulary
+other/another;სხვა;new_vocabulary
+by foot;ფეხით;new_vocabulary
+by metro;მეტროთი;new_vocabulary
+by public transportation;ტრანსპორტით;new_vocabulary
+by car;მანქანით;new_vocabulary
+by bus;ავტობუსით;new_vocabulary
+by bike;ველოსიპედით;new_vocabulary
+by train;მატარებლით;new_vocabulary
+needed;საჭირო;new_vocabulary
+high/tall;მაღალი;new_vocabulary
+low/short;დაბალი;new_vocabulary
+price;ფასი;new_vocabulary
+free (price);უფასო;new_vocabulary
+salary;ხელფასი;new_vocabulary
+hand;ხელი;new_vocabulary
+quality;ხარისხი;new_vocabulary

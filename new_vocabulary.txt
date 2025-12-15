@@ -35,4 +35,29 @@ silver;ვერცხლისფერი
 good;კარგი
 better;უკეთესი
 the best;საუკეთესო
+job/work place;სამსახური
+business;საქმე
+colleague;კოლეგა
+break;შესვენება
+plan;გეგმა
+more;მეტი
+no longer;აღარ
+free;თავისუფალი
+freedom;თავისუფლება
+other/another;სხვა
+by foot;ფეხით
+by metro;მეტროთი
+by public transportation;ტრანსპორტით
+by car;მანქანით
+by bus;ავტობუსით
+by bike;ველოსიპედით
+by train;მატარებლით
+needed;საჭირო
+high/tall;მაღალი
+low/short;დაბალი
+price;ფასი
+free (price);უფასო
+salary;ხელფასი
+hand;ხელი
+quality;ხარისხი
 

@@ -60,3 +60,15 @@ I am listening;მე ვუსმენ
 he is listening;ის უსმენს
 you hear;შენ გესმის
 we hear;ჩვენ გვესმის
+I need;მე მჭირდება
+you (pl) need;თქვენ გჭირდებათ
+you wake up;შენ იღვიძებ
+they wake up;ისინი იღვიძებენ
+I go to bed;მე ვიძინებ
+he goes to bed;ის იძინებს
+you are sleeping;შენ გძინავს
+we are sleeping;ჩვენ გვძინავს
+I feel sleepy;მე მეძინება
+they feel sleepy;მათ ეძინებთ
+we spend;ჩვენ ვატარებთ
+you spend;შენ ატარებ

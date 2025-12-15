@@ -52,3 +52,16 @@ since;წლიდან
 first;პირველი
 second;მეორე
 third;მესამე
+quickly;ჩქარა
+soon/promptly;მალე
+slowly;ნელა
+time (duration);ხანი
+in front/ago;წინ
+free time;თავისუფალი დრო
+personal time;პირადი დრო
+earlier/formerly;წინათ
+at that time;იმ დროს
+then;მაშინ
+in ancient times;ძველად
+last year;შარშან
+two years ago;შარშანწინ

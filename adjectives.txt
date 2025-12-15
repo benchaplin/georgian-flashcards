@@ -20,3 +20,12 @@ ill;ავად
 cold;ცივი
 few;ცოტა
 busy;დაკავებული
+happy;ბედნიერი
+sad;სევდიანი
+kind;კეთილი
+evil;ბოროთი
+joyful;მხიარული
+funny;სასაცილო
+angry;გაბრაზებული
+difficult;რთული
+easy;ადვილი
